@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/move_robot.dir/src/main.cpp.o  -o move_robot liblab2.so -Wl,-rpath,/home/ecn/Desktop/ecn_arpro-master/mobile_robot/Build 
